@@ -1,0 +1,21 @@
+Libraries (SIP.js)
+
+*https://github.com/onsip/sip.js
+*https://sipjs.com/ (demo and documentation)
+
+MySQLDB (Maria DB as its free)
+
+Express server
+*https://expressjs.com/
+
+UI
+React native and Native elements for styling
+
+*https://reactnative.dev/
+*https://react-native-elements.github.io/react-native-elements/
+
+Basic support:
++ Texting
++ Data calling
++ Live Video Chatting
++ Geo-tagging for live location sharing
